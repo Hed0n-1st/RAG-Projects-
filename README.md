@@ -55,7 +55,7 @@ The system retrieves relevant information from stored knowledge before generatin
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/python-tutor-rag.git
+git clone https://github.com/Adi-0-0/RAG-Projects-
 ```
 
 Install dependencies:
