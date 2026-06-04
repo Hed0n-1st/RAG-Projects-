@@ -1,0 +1,9 @@
+langchain
+langchain-community
+faiss-cpu
+sentence-transformers
+pymupdf
+transformers
+torch
+numpy
+pandas
